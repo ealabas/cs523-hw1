@@ -52,13 +52,13 @@
 
 \##report
 
-* \[ ] methods
+* \[+] methods
 
 
 
-* \[ ] prepare figures
+* \[+] prepare figures
 
 
 
-* \[ ] discuss results
+* \[+] discuss results
 
