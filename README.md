@@ -20,33 +20,33 @@
 
 
 
-* \[ ] binary masking
+* \[+] binary masking
 
-  * \[ ] highlight edges
+  * \[+] highlight edges
 
 
 
-* \[ ] histogram
+* \[+] histogram
 
-  * \[ ] compare intensity
+  * \[+] compare intensity
 
 
 
 \## problem 2
 
-* \[ ] capture video frames
+* \[+] capture video frames
 
 
 
-* \[ ] edge detection and masking
+* \[+] edge detection and masking
 
 
 
-* \[ ] edge enhancement
+* \[+] edge enhancement
 
 
 
-* \[ ] visualization
+* \[+] visualization
 
 
 
