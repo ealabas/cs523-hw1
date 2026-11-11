@@ -1,10 +1,10 @@
 \## problem 1
 
-* \[ ] image resize
+* \[+] image resize
 
-  * \[ ] load color image
-  * \[ ] resize
-  * \[ ] save png
+  * \[+] load color image
+  * \[+] resize
+  * \[+] save png
 
 
 
