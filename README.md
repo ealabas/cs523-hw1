@@ -8,15 +8,15 @@
 
 
 
-* \[ ] convert to grayscale
+* \[+] convert to grayscale
 
-  * \[ ] apply gaussian blur w/ sigma = 2
+  * \[+] apply gaussian blur w/ sigma = 2
 
 
 
-* \[ ] canny edge detection
+* \[+] canny edge detection
 
-  * \[ ] change threshold values
+  * \[+] change threshold values
 
 
 
